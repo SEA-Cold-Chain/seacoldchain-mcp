@@ -1,0 +1,23 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "com.seacoldchain/markets",
+  "title": "SEA Cold Chain market totals",
+  "description": "Cold storage totals for Southeast Asia: sites, pallet capacity, tiers and pipeline, with citations.",
+  "version": "1.0.0",
+  "websiteUrl": "https://seacoldchain.com/method#ai-tools",
+  "icons": [
+    {
+      "src": "https://seacoldchain.com/apple-icon.png",
+      "mimeType": "image/png",
+      "sizes": [
+        "180x180"
+      ]
+    }
+  ],
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://seacoldchain.com/mcp"
+    }
+  ]
+}
