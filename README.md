@@ -1,5 +1,7 @@
 # SEA Cold Chain market totals (MCP server)
 
+[![SEA Cold Chain MCP connector](https://glama.ai/mcp/connectors/com.seacoldchain/markets/badges/score.svg)](https://glama.ai/mcp/connectors/com.seacoldchain/markets)
+
 A free, read-only [Model Context Protocol](https://modelcontextprotocol.io) server with cold storage market totals for
 Southeast Asia: operating sites, pallet capacity, investment-grade buildings, the pipeline under construction and the
 coverage share, each with its as-of date and a citation line.
