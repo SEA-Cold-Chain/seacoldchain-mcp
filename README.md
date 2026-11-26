@@ -11,6 +11,7 @@ coverage share, each with its as-of date and a citation line.
 - **Markets:** Thailand, Vietnam, Cambodia, the Philippines, Singapore, Indonesia, Malaysia
 - **Publisher:** [SEA Cold Chain](https://seacoldchain.com), a site-level register of cold storage buildings in
   Southeast Asia ([how it is built](https://seacoldchain.com/method))
+- **Updates:** [SEA Cold Chain on LinkedIn](https://www.linkedin.com/company/seacoldchain)
 
 The server is hosted; this repository holds its description and registry file only.
 
